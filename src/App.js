@@ -1,25 +1,16 @@
-import logo from './logo.svg';
-import './App.css';
+import show_items from './showItems.js'
+import Hero from './components/Hero.jsx';
+import Main from './components/Main.jsx';
+import Showcase from './components/Showcase.jsx';
+import Footer from './components/Footer.jsx';
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+  return <div>
+    <Hero/>
+    <Main/>
+    <Showcase imgObject={show_items}/>
+    <Footer/>
+  </div>
 }
 
 export default App;
