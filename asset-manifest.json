@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/loopstudios--page/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/loopstudios--page/static/js/main.b8a5feb2.chunk.js",
+    "main.js.map": "/loopstudios--page/static/js/main.b8a5feb2.chunk.js.map",
+    "runtime-main.js": "/loopstudios--page/static/js/runtime-main.2cf7d70d.js",
+    "runtime-main.js.map": "/loopstudios--page/static/js/runtime-main.2cf7d70d.js.map",
+    "static/js/2.19e1b441.chunk.js": "/loopstudios--page/static/js/2.19e1b441.chunk.js",
+    "static/js/2.19e1b441.chunk.js.map": "/loopstudios--page/static/js/2.19e1b441.chunk.js.map",
+    "static/js/3.d7f4d34b.chunk.js": "/loopstudios--page/static/js/3.d7f4d34b.chunk.js",
+    "static/js/3.d7f4d34b.chunk.js.map": "/loopstudios--page/static/js/3.d7f4d34b.chunk.js.map",
+    "index.html": "/loopstudios--page/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/loopstudios--page/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.19e1b441.chunk.js.LICENSE.txt": "/loopstudios--page/static/js/2.19e1b441.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2cf7d70d.js",
+    "static/js/2.19e1b441.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.b8a5feb2.chunk.js"
+  ]
+}
